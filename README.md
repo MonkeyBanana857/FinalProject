@@ -5,25 +5,25 @@ Final Project IST 256 Professor Yoder
 CHANGELOG (Updated as I work on the project)
 1. Edited title/headings of website to make them about stupid monkeys
 2. Changed CSS file to prominently feature yellow coloring as opposed to green coloring
-Edited feature icons, added some new ones from font awesome
-Edited specific features/descriptions
-Added “help” button in navigation bar at top of screen that takes the user to the wikipedia page for bananas haha
-Edited navigation bar names to be more fitting
-Added a new original image for the app section
-Added an additional feature next to the bananaphone image and changed some more icons there
-Edited services list, updated icons
-Added descriptions to new services
-Added “about us” section and edited style.css file to change image
-Changed “About us” to “our team” and changed the pictures to show monkeys haha
-Fixed weird padding error in the mission statement section 
-Created an “about us” section 
-Added images/names for about us where the employees are a bunch of monkeys
-Added testimonial
-Added price table
-Added an additional 7th service in case the app doesn’t count as one (banana recipes)
-Added a javascript thing called “modal” from bootstrap that allows for form entry (had to add bootstrap for it at bottom of html)
-Finally fixed annoying bug where github wouldn’t use roboto font because the href link used “http” instead of “https” in the template
-Used intelij reformat tool to make code cleaner
+3. Edited feature icons, added some new ones from font awesome
+4. Edited specific features/descriptions
+5. Added “help” button in navigation bar at top of screen that takes the user to the wikipedia page for bananas haha
+6. Edited navigation bar names to be more fitting
+7. Added a new original image for the app section
+8. Added an additional feature next to the bananaphone image and changed some more icons there
+9. Edited services list, updated icons
+10. Added descriptions to new services
+11. Added “about us” section and edited style.css file to change image
+12. Changed “About us” to “our team” and changed the pictures to show monkeys haha
+13. Fixed weird padding error in the mission statement section 
+14. Created an “about us” section 
+15. Added images/names for about us where the employees are a bunch of monkeys
+16. Added testimonial
+17. Added price table
+18. Added an additional 7th service in case the app doesn’t count as one (banana recipes)
+19. Added a javascript thing called “modal” from bootstrap that allows for form entry (had to add bootstrap for it at bottom of html)
+20. Finally fixed annoying bug where github wouldn’t use roboto font because the href link used “http” instead of “https” in the template
+21. Used intelij reformat tool to make code cleaner
 
 GOAL/NORTHSTAR - Make a fun and engaging website that users will enjoy navigating
 
