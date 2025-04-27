@@ -3,8 +3,8 @@ Final Project IST 256 Professor Yoder
 4/27/2025
 
 CHANGELOG (Updated as I work on the project)
-Edited title/headings of website to make them about stupid monkeys
-Changed CSS file to prominently feature yellow coloring as opposed to green coloring
+1. Edited title/headings of website to make them about stupid monkeys
+2. Changed CSS file to prominently feature yellow coloring as opposed to green coloring
 Edited feature icons, added some new ones from font awesome
 Edited specific features/descriptions
 Added “help” button in navigation bar at top of screen that takes the user to the wikipedia page for bananas haha
